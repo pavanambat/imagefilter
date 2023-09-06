@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+    background-color: azure;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1, h2 {
+    text-decoration: underline;
+    color: blue;
+}
+canvas {
+    min-width: 40%;
+    max-width: 60%;
+    border: 2px dotted safron;
+    background-color: gainsboro;
+}
+label {
+    font-style: italic;
+}
+.buttons {
+    padding: 0 5px 0px 0;
+    margin:10px
+    
+   
+  
+}
+
+.reset {
+    background-color: crimson;
+    color: whitesmoke;
+}
+.range-input-group{
+    margin: 10px 0;
+    padding: 15px;
+    border: 1px solid blueviolet;
+    border-radius: 15px;
+    display: inline-block;
+}
